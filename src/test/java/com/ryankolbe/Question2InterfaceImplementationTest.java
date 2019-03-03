@@ -8,11 +8,11 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 public class Question2InterfaceImplementationTest {
 
-    private Question2Interface1 question2Interface1;
-    private Question2Interface2 question2Interface2;
+    private static Question2Interface1 question2Interface1;
+    private static Question2Interface2 question2Interface2;
 
     @BeforeClass
-    public void setUp() {
+    public static void setUp() {
         ApplicationContext applicationContext1 = new AnnotationConfigApplicationContext(Question3ConfigClass.class);
         question2Interface1 = (Question2Interface1) applicationContext1.getBean("Ch2_Interface1");
         ApplicationContext applicationContext2 = new AnnotationConfigApplicationContext(Question3ConfigClass.class);

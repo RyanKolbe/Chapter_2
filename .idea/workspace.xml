@@ -228,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551650012420" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551650162236" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -261,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Question2InterfaceImplementationTest.calculateArea">
+  <component name="RunManager" selected="JUnit.Question2InterfaceImplementationTest">
     <configuration name="Question2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ryankolbe.Question2Application" />
       <module name="Chapter_2" />
@@ -338,9 +338,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Question2InterfaceImplementationTest" />
         <item itemvalue="JUnit.Question2InterfaceImplementationTest.calculateArea" />
         <item itemvalue="JUnit.com.ryankolbe in Chapter_2" />
-        <item itemvalue="JUnit.Question2InterfaceImplementationTest" />
         <item itemvalue="JUnit.Question2InterfaceImplementationTest.calculatePerimeter" />
         <item itemvalue="Application.Question2Application" />
       </list>
