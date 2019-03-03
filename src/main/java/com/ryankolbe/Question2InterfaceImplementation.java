@@ -1,6 +1,6 @@
 package com.ryankolbe;
 
-public class Question2InterfaceImplementation implements Question2Interface {
+public class Question2InterfaceImplementation implements Question2Interface1, Question2Interface2 {
 
     @Override
     public int calculateArea(int radius) {
